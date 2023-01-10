@@ -5,7 +5,7 @@ import datetime
 import wikipedia
 import pipwin
 import pyaudio
-import pyjokes
+
 
 #Comments
 #For the robot to listen to our voice/speech pip install speechRecognition
